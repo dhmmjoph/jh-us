@@ -1,2 +1,2 @@
 # jh-us
-johnholbrook.us
+This was <a href="http://johnholbrook.us">johnholbrook.us</a>, back when the site was hosted on <a href="https://www.heroku.com/">Heroku</a> using <a href="http://harpjs.com/docs/deployment/heroku">Harp</a>. A while back I moved to hosting using GitHub Pages (and therefore jekyll), and so the repository containing that site as it currently exists on the web is now located at <a href="https://github.com/dhmmjoph/dhmmjoph.github.io">dhmmjoph/dhmmjoph.github.io</a>. As such, this repository is no longer in use, but I left it up because whatever.
